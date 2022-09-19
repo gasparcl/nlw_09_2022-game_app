@@ -7,6 +7,7 @@ import {
 import { LinearGradient } from "expo-linear-gradient"
 import { THEME } from "../../theme"
 import { styles } from "./styles"
+import React from "react"
 
 export interface GameCardProps {
     id: string
